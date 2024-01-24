@@ -17,10 +17,10 @@ THe Charts requiremnets are
 6. Top 5 best sellers by revenue, quantity, and order
 7. Bottom 5 sellers by revenue, quantity, and order
 
-Sales report
+#Sales report
 
 ![image](https://github.com/nazsakiba/Pizza-Sales-Report/assets/5148244/2a8591e1-a4ba-4d8b-ae69-b3e09e7d760a)
 
-The best and worst seller report
+#The best and worst seller report
 
 ![image](https://github.com/nazsakiba/Pizza-Sales-Report/assets/5148244/a4f1bc43-b0e4-4c51-9563-26f6949b5b86)
